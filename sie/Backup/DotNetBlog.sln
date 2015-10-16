@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\DotNetBlog\", ".", "{130502D4-18C1-4464-8172-68A80E15DD83}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/DotNetBlog"
+		Debug.AspNetCompiler.PhysicalPath = "..\DotNetBlog\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\DotNetBlog\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/DotNetBlog"
+		Release.AspNetCompiler.PhysicalPath = "..\DotNetBlog\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\DotNetBlog\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1735"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{130502D4-18C1-4464-8172-68A80E15DD83}.Debug|.NET.ActiveCfg = Debug|.NET
+		{130502D4-18C1-4464-8172-68A80E15DD83}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

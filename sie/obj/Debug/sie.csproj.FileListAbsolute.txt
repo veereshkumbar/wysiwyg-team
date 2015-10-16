@@ -1,0 +1,107 @@
+D:\Information science\Sie website\sie\sie\bin\sie.dll.config
+D:\Information science\Sie website\sie\sie\bin\sie.dll
+D:\Information science\Sie website\sie\sie\bin\sie.pdb
+D:\Information science\Sie website\sie\sie\bin\Antlr3.Runtime.dll
+D:\Information science\Sie website\sie\sie\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Information science\Sie website\sie\sie\bin\AspNet.ScriptManager.jQuery.dll
+D:\Information science\Sie website\sie\sie\bin\EntityFramework.dll
+D:\Information science\Sie website\sie\sie\bin\EntityFramework.SqlServer.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.Google.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Web.Infrastructure.dll
+D:\Information science\Sie website\sie\sie\bin\Newtonsoft.Json.dll
+D:\Information science\Sie website\sie\sie\bin\Owin.dll
+D:\Information science\Sie website\sie\sie\bin\System.Web.Optimization.dll
+D:\Information science\Sie website\sie\sie\bin\System.Web.Providers.dll
+D:\Information science\Sie website\sie\sie\bin\WebGrease.dll
+D:\Information science\Sie website\sie\sie\bin\System.Web.Optimization.xml
+D:\Information science\Sie website\sie\sie\bin\Antlr3.Runtime.pdb
+D:\Information science\Sie website\sie\sie\bin\Newtonsoft.Json.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Information science\Sie website\sie\sie\bin\EntityFramework.xml
+D:\Information science\Sie website\sie\sie\bin\EntityFramework.SqlServer.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.Google.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Information science\Sie website\sie\sie\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Information science\Sie website\sie\sie\obj\Debug\sie.csprojResolveAssemblyReference.cache
+D:\Information science\Sie website\sie\sie\obj\Debug\sie.dll
+D:\Information science\Sie website\sie\sie\obj\Debug\sie.pdb
+G:\Project\sie\sie\bin\sie.dll.config
+G:\Project\sie\sie\bin\sie.dll
+G:\Project\sie\sie\bin\sie.pdb
+G:\Project\sie\sie\bin\Antlr3.Runtime.dll
+G:\Project\sie\sie\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Project\sie\sie\bin\AspNet.ScriptManager.jQuery.dll
+G:\Project\sie\sie\bin\EntityFramework.dll
+G:\Project\sie\sie\bin\EntityFramework.SqlServer.dll
+G:\Project\sie\sie\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Project\sie\sie\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project\sie\sie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project\sie\sie\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project\sie\sie\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Project\sie\sie\bin\Microsoft.Owin.Cors.dll
+G:\Project\sie\sie\bin\Microsoft.Owin.dll
+G:\Project\sie\sie\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.dll
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.Google.dll
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project\sie\sie\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Project\sie\sie\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Project\sie\sie\bin\Microsoft.Web.Infrastructure.dll
+G:\Project\sie\sie\bin\Newtonsoft.Json.dll
+G:\Project\sie\sie\bin\Owin.dll
+G:\Project\sie\sie\bin\System.Web.Cors.dll
+G:\Project\sie\sie\bin\System.Web.Optimization.dll
+G:\Project\sie\sie\bin\System.Web.Providers.dll
+G:\Project\sie\sie\bin\WebGrease.dll
+G:\Project\sie\sie\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project\sie\sie\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project\sie\sie\bin\Microsoft.Owin.xml
+G:\Project\sie\sie\bin\Microsoft.Owin.Cors.xml
+G:\Project\sie\sie\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.xml
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.Google.xml
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project\sie\sie\bin\Newtonsoft.Json.xml
+G:\Project\sie\sie\bin\System.Web.Optimization.xml
+G:\Project\sie\sie\bin\Antlr3.Runtime.pdb
+G:\Project\sie\sie\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Project\sie\sie\bin\EntityFramework.xml
+G:\Project\sie\sie\bin\EntityFramework.SqlServer.xml
+G:\Project\sie\sie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project\sie\sie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project\sie\sie\obj\Debug\sie.csprojResolveAssemblyReference.cache
+G:\Project\sie\sie\obj\Debug\sie.dll
+G:\Project\sie\sie\obj\Debug\sie.pdb
+G:\Project\sie\sie\obj\Debug\sie.Global.resources
+G:\Project\sie\sie\obj\Debug\sie.csproj.GenerateResource.Cache
